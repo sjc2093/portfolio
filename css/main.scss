@@ -60,6 +60,7 @@ header {
     display: grid;
     text-align: center;
     padding: 4em;
+   
 }
 
 .meet {
@@ -168,6 +169,14 @@ section {
 .right-transition3 {
     width: 40%;
 
+}
+
+.values-container {
+    h2 {
+        color: #287caf;
+    }
+    padding: 8rem;
+    text-align: center;
 }
 
 .portfolio {
